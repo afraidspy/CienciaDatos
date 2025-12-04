@@ -1,2 +1,2 @@
 # CienciaDatos
-Ejercicios con Python, Numpy y Pandas
+Proyectos con Python, Numpy y Pandas
